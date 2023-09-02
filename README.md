@@ -1,0 +1,1 @@
+# CI-with-Inheriting-Bean
